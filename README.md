@@ -66,8 +66,10 @@ Step 5 – Final Cleanup & Dimensioning
 
 
 OUTPUT:
-<img width="682" height="733" alt="Screenshot 2026-11-22 182816" src="https://github.com/user-attachments/assets/633a6575-ce41-48c5-a881-2db87a1d18fc" />
 <img width="1032" height="727" alt="Screenshot 2026-11-22 180055" src="https://github.com/user-attachments/assets/68284639-bc86-4f68-88c0-42bc220bf5e2" />
+
+<img width="682" height="733" alt="Screenshot 2026-11-22 182816" src="https://github.com/user-attachments/assets/15333be4-8b88-4a92-b785-a79456da636e" />
+
 
 RESULT:
 
